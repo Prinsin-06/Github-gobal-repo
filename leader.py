@@ -1,5 +1,5 @@
 print("India: Modi")
 print("US: trump")
-print("Russia: Putin", "local system")
+print("Russia: Putin")
 print("North Korea: Kim Jong")
 
